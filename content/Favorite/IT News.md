@@ -6,6 +6,7 @@ Category: IT News
 - [InfoWorld](http://www.infoworld.com)
 - [ITWorld](http://www.itworld.com)
 - [ComputerWorld](http://www.computerworld.com)
+- [PCWorld](http://www.pcworld.com/)
 - [InfoQ](http://www.infoq.com)
 - [TechCrunch](http://techcrunch.com/)
 - [ZDNet](http://www.zdnet.com/)
@@ -19,3 +20,5 @@ Category: IT News
 - [SearchengineLand](http://searchengineland.com/)
 - [CSDN](http://www.csdn.net/)
 - [OSChina](http://oschina.net/)
+- [Open-open](http://www.open-open.com/)
+- [TutorialZine](http://tutorialzine.com/)

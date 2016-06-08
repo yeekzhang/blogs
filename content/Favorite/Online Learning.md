@@ -1,9 +1,9 @@
-Title: Books
-Date: 2016-05-20 10:20
+Title: Online Learning
+Date: 2016-05-27 10:20
 Category: Books
 
 # Free E-Books
-- [AllITeBooks](http://www.allitebooks.com/)
+- [CodeCademy](https://www.codecademy.com/)
 - [eBooks-IT](https://ebooks-it.org/)
 - [Fox eBook](http://www.foxebook.net/)
 - [IT eBooks](http://it-ebooks.info/)
@@ -18,5 +18,3 @@ Category: Books
 - [Oreilly](http://www.oreilly.com/)
 - [Amazon](http://www.amazon.com/)
 - [PacktPub](http://packtpub.com/)
-- [WROX](http://www.wrox.com/)
-
